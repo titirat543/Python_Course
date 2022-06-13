@@ -1,0 +1,19 @@
+# name = input("Name ?: ")
+# # heigh_as_number = int(heigh)
+#
+# if name != "Foey":
+#     print("free meal")
+# else:
+#     print("pay 399 bath")
+#
+
+grade = int(input("grade ?: "))
+# heigh_as_number = int(heigh)
+
+if grade >= 80:
+    print("A")
+    print("great")
+elif grade <= 30:
+    print("F")
+else:
+    print("processing")
